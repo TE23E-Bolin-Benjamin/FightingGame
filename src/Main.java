@@ -36,7 +36,7 @@ public class Main {
 
         //TODO: Fix game loop metofh
         //      starts wit user intraction
-        //      After let ai hit back with randome choice
+        //       After let ai hit back with randome choice
         //     If time: Make AI more clerver in attack choice
         //      Let user choose whick charachter?
     }
